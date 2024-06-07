@@ -1,0 +1,12 @@
+c:\users\fara\documents\visual studio 2012\Projects\BST\BST\bin\Debug\BST.exe.config
+C:\Users\Fara\documents\visual studio 2012\Projects\BST\BST\bin\Debug\BST.exe
+C:\Users\Fara\documents\visual studio 2012\Projects\BST\BST\bin\Debug\BST.pdb
+C:\Users\Fara\documents\visual studio 2012\Projects\BST\BST\obj\Debug\BST.exe
+C:\Users\Fara\documents\visual studio 2012\Projects\BST\BST\obj\Debug\BST.pdb
+C:\Users\Fara\documents\visual studio 2012\Projects\BST\BST\obj\Debug\BST.csprojResolveAssemblyReference.cache
+C:\Users\Meti\Documents\Visual Studio 2012\Projects\BST\BST\bin\Debug\BST.exe.config
+C:\Users\Meti\Documents\Visual Studio 2012\Projects\BST\BST\obj\Debug\BST.exe
+C:\Users\Meti\Documents\Visual Studio 2012\Projects\BST\BST\obj\Debug\BST.pdb
+C:\Users\Meti\Documents\Visual Studio 2012\Projects\BST\BST\bin\Debug\BST.exe
+C:\Users\Meti\Documents\Visual Studio 2012\Projects\BST\BST\bin\Debug\BST.pdb
+C:\Users\Meti\Documents\Visual Studio 2012\Projects\BST\BST\obj\Debug\BST.csprojResolveAssemblyReference.cache
